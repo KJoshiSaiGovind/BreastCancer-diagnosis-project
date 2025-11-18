@@ -1,5 +1,1 @@
-streamlit
-pandas
-numpy
-scikit-learn
-matplotlib
+WEBSITE :- https://breastcancer-diagnosis-project-website.streamlit.app/
